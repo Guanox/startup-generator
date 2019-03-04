@@ -4,3 +4,7 @@ This little app builds upon the app build following the official flutter tutoria
 
 I include Redux to manage state and Firebase to save the favorited startup names remotely. 
 The app also includes a google login and settings that are saved with SharedPreferences.
+
+![(https://imgur.com/aS2odbN)
+![](http://url/to/img.png)
+![(https://imgur.com/emTagOM)
